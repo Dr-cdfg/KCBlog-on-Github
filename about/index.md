@@ -12,5 +12,7 @@ KC日志起源于wikidot上的“小房子IT论坛”，后来转变为个人博
 
 除了搞运维还喜欢玩游戏王（实体卡）。
 
+最近github网络状态异常，似乎被墙。
+
 这是我的头像：
 ![D1D98FC0-A200-47DF-B35A-991FC98D9560.png](https://i.loli.net/2021/03/14/iEqoNZ97r3yshkB.png)
